@@ -1,4 +1,4 @@
-[rpi2]
+[rpi3]
 192.168.100.4 ansible_user=pi
 
 
