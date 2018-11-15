@@ -15,8 +15,8 @@ java8link_dirname: jdk1.8.0_131
 elasticsearch_deb_url: https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.4.2.deb
 elasticsearch_deb_filename: elasticsearch-5.4.2.deb
 
-logstash_deb_url: https://artifacts.elastic.co/downloads/logstash/logstash-5.4.2.deb
-logstash_deb_filename: logstash-5.4.2.deb
+logstash_deb_url: https://artifacts.elastic.co/downloads/logstash/logstash-6.5.0.deb
+logstash_deb_filename: logstash-6.5.0.deb
 
 maxmind_url: http://geolite.maxmind.com/download/geoip/database/GeoLite2-City.tar.gz
 
